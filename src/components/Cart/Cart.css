@@ -1,0 +1,13 @@
+.order-info{
+    font-size: 12px;
+    line-height: 1em;
+    font-weight: 500;
+    color: rgb(16, 31, 16);
+    margin-left: 5px;
+}
+.order-summary .order-items{
+    text-align: center;
+}
+.total-price{
+    color: darkred;
+}
